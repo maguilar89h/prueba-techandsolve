@@ -6,6 +6,6 @@ public interface RepositorioReserva {
 	
 	public void guardar(Reserva reserva);
 	
-	public Reserva consultar();
+	public Reserva consultar(String identificacion);
 
 }
