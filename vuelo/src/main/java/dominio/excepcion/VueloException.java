@@ -1,4 +1,4 @@
-package com.prueba.vuelo.dominio.excepcion;
+package dominio.excepcion;
 
 public class VueloException extends RuntimeException{
 
